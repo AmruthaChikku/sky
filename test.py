@@ -4,3 +4,5 @@ amrutha=20
 b=20
 chikku
 cute
+c=8
+

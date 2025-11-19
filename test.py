@@ -5,4 +5,3 @@ b=20
 chikku
 cute
 c=8
-

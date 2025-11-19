@@ -3,3 +3,4 @@ a=10
 amrutha=20
 b=20
 chikku
+c=8
